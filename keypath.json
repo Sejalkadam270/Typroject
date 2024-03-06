@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "great-learning-401307",
+  "private_key_id": "a8c3d40b871010f67e73e214107b3f3383aae3f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtmWuT5+AweKyD\nSFBmPfu1+V3fI3kVf851wBIaBicdoxrbRnGchqvAxEW8WIx5YAoU8DQiesB8JcVB\nuY2QvpwQUcjMvSig38bS4Vn4IHjyto2+Rvo2VFfyuAGeLY1nrDy822TsM+N3f1h9\nQTnKQbk0SUjwCFUVis3UaWtZ2rNKGfH5xc0vy2kFo8pHDONWXLryOi4ndg/MFtDo\nCFpQ8lCQKJg2jUyflXtU9aMQb7Cymad4trT0vyCYXmWaWV2ziSGGUPUicvZ9kwdI\nqLlJdeCft12jjqYOLtooED4OVKn0lh2mul4liOxc1FOGHAfGI47efBcCkJc7WWdI\n3DoJyvezAgMBAAECggEAE9YKgVGG//Lh/3RFX5FokCAI1mTmwoqijDjguKGIWa4X\n9QNFGxYWTQYAU+eoUXwkWsUhp+jv0p+8POjXYLku+vxlXeOlX1CClvkR/zSyrUUn\nyByzHX8gt4bIBIt+82AuZoQJMaYyMSbXdSR9VnuRDoTrNSY2lqoQH9vV3OQNBYPm\nIyRwUywyKXwpLhELPG9fCz0qNQulm2EtO/BtKwCFqLln/l2mnTFo729F9EhAWdIw\nj0XJ9PePQGWQ7qFXGMLKkGkj7lCgndsh/t72wwsKxgTv0YL+DnA4OQ5O0uPeabjd\nBvbFyT7PAQsvNMEaBBzjMtpqlepDfhoD84MW1lUG/QKBgQDiJnSOKO/uKnpMIm+4\nDtl7ADo5NYu23I5qYWzRMpHNZfuEMWJ5SVmlen6dB8rbs5NjMVBPQi20c3MGKvxS\nRjGJJxAUh/TS+dxVIx8vnvE+QSsU2sOAcIiGyOHH0wAPrvDhlL9ITzuSvj3orhKP\nC3iCp/M9hQhJs7LqrW+mlAu0lQKBgQDEg0kyUq49n4xV0CrgMOmIxjfEU13smaGk\njUkPD5XNbMSH3cwmFrueCIpKgYSFnUk5PPp/yiN5PSVxcbaEoRYMzUX1mFZHzaG+\nvnOWAcRPvYJBn8tQxxcq1c4USGZizXS7z6rTYSCTR1+OytSt91WFeo9usyhum/TW\ns+ZVbr5hJwKBgQCNd0jJ9MnBzkiaf6ArHv7kdov1ZY10YhukaDVN17hlKDphwxK6\nlCvD3BB/4nP/YyH7lsmKCvfUPbPiU9lrDgXGqezhKvr3Tt2JVGMZwu9d5h4w+Xf6\nTGrbBaZW/aK4LNL6CbZuYUH+1Yqclud9G8vSz4TVIvbAQ+zT6JJDPbDk0QKBgEbj\nOQ9PJg2StVPrUNwoqMWvA0Tt8c68qMOsN7OYIqjE2KxORStkPe/HEuPHjt+IGnbs\nWUypxVwhw5UFuRpk5YhesCLk/hLOyc798sIlBwTgztEPbI9KEkBgegN1DoILrVVm\nly/DNLYMJBtlbY0H0LDiwkTjme00kwC0Sp184m43AoGAC6R+DjP5nyylVxFjwrnY\nz+fLfgVoGQMYCFxQJR5z6qLTugFkM0fzIFVAw4RtsKDqke/dbUCpcGvYonJmVk0f\nrk1R0OLO4U9IDI1NtVdlvwrCxjYILUFG0TnAuyIX8HDGuarB6QBTeZD9xJMrkAiU\nc99h8CbZYBHdleZFba9aYqg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "drivetestproject@great-learning-401307.iam.gserviceaccount.com",
+  "client_id": "106677585459714548242",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/drivetestproject%40great-learning-401307.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
